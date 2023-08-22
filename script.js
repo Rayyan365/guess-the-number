@@ -10,3 +10,7 @@ if(input===randomNumber){
 }
 let score = 20
 let highScore = 0
+querySelector(".again"). addEventListener('click', function(
+let score = 20;
+
+))
